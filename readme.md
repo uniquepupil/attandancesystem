@@ -27,6 +27,4 @@ The following tech is used in this project.
 - [Bootstrap](https://getbootstrap.com/) - the UI solutions of this project.
 - [JQuery](https://jquery.com/) - the client-side programming solutions of this project.
 - [MySQL](https://www.mysql.com/) - the database of this project.# attandancesystem
-# attandancesystem
-# attandancesystem
-# attandancesystem
+
