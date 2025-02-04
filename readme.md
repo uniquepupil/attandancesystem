@@ -3,16 +3,6 @@ This is the `Java` version of this project.
 # Student Attendance Management System (SAMS)
 SAMS - a Student Attendance Management System built with [Java GlassFish](https://glassfish.org/), [Bootstrap](https://getbootstrap.com/), [JQuery](https://jquery.com/) and [MySQL](https://www.mysql.com/).
 
-
-![Alt text](./readme-img/01.png "Login Page")
-![Alt text](./readme-img/02.png "Teacher Home Page")
-![Alt text](./readme-img/03.png "Lessons Records Page")
-![Alt text](./readme-img/04.png "Lesson Info Page")
-![Alt text](./readme-img/05.png "Lesson Info Page")
-![Alt text](./readme-img/06.png "Student Home Page")
-![Alt text](./readme-img/07.png "Student Attendance Page")
-![Alt text](./readme-img/08.png "Attendance History Page")
-
 ## Get Started
 
 To start with, you must install [NetBeans](https://netbeans.apache.org/) with `GlassFish Server` and [MySQL](https://dev.mysql.com/downloads/) with `MySQL Shell` on your computer.
